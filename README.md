@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/khaled-hagar-537982129" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/khaled-hagar-537982129" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Hagar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,9 +28,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-![SQL](https://www.w3schools.com/sql/)
-!ASP.NET
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-05122A?style=flat&logo=ASP.Net)&nbsp;
 
 
 
