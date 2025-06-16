@@ -14,7 +14,7 @@
 - 🏢 I'm a junior developer
 - 👨‍💻 As a junior developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C#, ASP.Net or anything related to web development.
-- ⚡ Experience: I'm currently a petroleum engineer and trying to change carrer to web development.
+- ⚡ Experience: I'm currently a petroleum engineer and trying to change carrier to web development.
 
 
 ### Connect with Me :
